@@ -7,9 +7,7 @@ Olá! Meu nome é Vitória e sou entusiasta de tecnologia, apaixonada por aprend
 
 🐍 Python e seus frameworks: Tenho dedicado bastante tempo ao estudo de Python e suas  bibliotecas e frameworks. Estou  buscando aprender mais sobre Django, Flask e outras ferramentas populares.
 
-🗃️ Modelagem e manipulação de dados com SQLAlchemy
-
-🌐 Desenvolvimento Frontend: Estou animada em começar minha jornada no desenvolvimento frontend! Estou mergulhando em HTML, CSS e JavaScript, e ansiosa para explorar frameworks como React e Vue.js.
+🗃️ Modelagem e manipulação de dados com SQLAlchemy e MySQL
 
 
 
