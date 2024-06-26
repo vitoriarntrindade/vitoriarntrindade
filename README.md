@@ -1,15 +1,31 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
-## Sobre mim
+# About Me
 
-Olá! Meu nome é Vitória e sou entusiasta de tecnologia, apaixonada por aprender e criar coisas novas. Estou atualmente mergulhada no mundo do desenvolvimento web, explorando tanto o lado do backend quanto do frontend.
+Hello little grasshoppers,
 
-### O que estou estudando
+I am **Vitória**, a **Junior Backend Developer** focused on **Python**.
 
-🐍 Python e seus frameworks: Tenho dedicado bastante tempo ao estudo de Python e suas  bibliotecas e frameworks. Estou  buscando aprender mais sobre Django, Flask e outras ferramentas populares.
+I have been transitioning careers since 2023. Previously, I worked as a quality monitor, where I had the opportunity to participate in highly collaborative teams inspired by agile methodologies.
 
-🗃️ Modelagem e manipulação de dados com SQLAlchemy e MySQL
+My learning journey includes courses in system project creation, covering everything from requirements gathering to project feasibility analysis. I also delved into DevOps culture and agile methodologies at FIAP, in addition to participating in various programming courses and bootcamps.
 
+## Skills
 
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
+  - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+  - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+- **Data Modeling** with:
+  - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  - ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA4245?style=flat-square&logo=SQLAlchemy&logoColor=white)
+- **Front-End Basics**:
+  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-trindade-206b37174/)
+- Courses in system project creation
+- DevOps culture and agile methodologies at FIAP
+- Various programming courses and bootcamps
+
+Feel free to reach out or check out my projects!
