@@ -29,3 +29,9 @@ My learning journey includes courses in system project creation, covering everyt
 - Various programming courses and bootcamps
 
 Feel free to reach out or check out my projects!
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-raymara)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vitoriarntrindade@gmail.com)
+
